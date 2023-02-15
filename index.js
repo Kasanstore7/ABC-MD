@@ -114,4 +114,4 @@ function start(file) {
 
 }
 
-start('main.js')
+start('kasan.js')
